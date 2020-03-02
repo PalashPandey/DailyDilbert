@@ -1,4 +1,4 @@
-# TextProcessingWorkingGroup
+# Daily Dilbert Wallpaper
 Simple python script that sets desktop wallpaper to that day's Dilber comic. 
 
 # Result of the script on my work computer 
