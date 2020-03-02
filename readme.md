@@ -1,5 +1,8 @@
 # TextProcessingWorkingGroup
 Simple python script that sets desktop wallpaper to that day's Dilber comic. 
 
+# Result of the script on my work computer 
+![Comic Desktop Example](https://raw.githubusercontent.com/PalashPandey/DailyDilbert/master/WorkLaptopExample.png)
 
-![Working Group Logo](https://raw.githubusercontent.com/PalashPandey/TextProcessingWorkingGroup/master/HomePageFiles/Text%20Processing%20Group%20Eventbrite.png)
+# Slippery slope.. Haha
+![Working Group Logo](https://raw.githubusercontent.com/PalashPandey/DailyDilbert/master/2019-10-16_15-36-38.jpg)
